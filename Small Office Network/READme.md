@@ -80,7 +80,7 @@ Configuration:
 - Assigned gateway addresses for each VLAN
 - Enabled communication between departmental networks
 
-![Inter-VLAN Routing](screenshots/inter-vlan-routing.png)
+![Inter-VLAN Routing](Screenshots/Router-Configuration.png)
 
 ### DHCP Services
 
@@ -91,7 +91,7 @@ Configuration:
 - Defined default gateways for each subnet
 - Reserved infrastructure addresses from DHCP assignment
 
-![DHCP Configuration](screenshots/DHCP-Configuration.png)
+![DHCP Configuration](Screenshots/DHCP-Configuration.png)
 
 ## Results
 
