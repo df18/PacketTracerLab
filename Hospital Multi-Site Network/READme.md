@@ -97,7 +97,7 @@ Main Hospital Switch
 ![VLAN Configuration](Screenshots/Vlan-Config-MH.png)
 
 District Hospital Switch
-![VLAN Configuration](Screenshots/Vlan-config-DH.png)
+![VLAN Configuration](Screenshots/Vlan-Config-DH.png)
 
 ### Inter-VLAN Routing & DHCP Relay
 
