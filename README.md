@@ -16,6 +16,7 @@ This repository contains Cisco Packet Tracer projects created to practice and de
 ## Projects
 
 1. [Small Office Network](https://github.com/df18/PacketTracerLab/tree/main/Small%20Office%20Network)
+2. [Hospital Multi-Site Network](https://github.com/df18/PacketTracerLab/tree/main/Hospital%20Multi-Site%20Network)
 
 
 
